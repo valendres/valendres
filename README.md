@@ -8,6 +8,30 @@
   <a href="mailto:peter.weller@mailfence.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/email-e836f0?&style=for-the-badge&logo=maildotru&logoColor=white" /></a>&nbsp;
 </p>
 
+<h2>📈 Github statistics</h2>
+<p>
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=valendres&include_all_commits=true&hide_border=true&theme=dark&background=2E3440&fire=81a1c1&ring=81a1c1&currStreakLabel=81a1c1"/>
+</p>
+
+<p>
+  <a href="https://github.com/valendres">
+    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=valendres&show_icons=true&line_height=27&count_private=true&title_color=81a1c1&text_color=c9cacc&icon_color=2bbc8a&bg_color=2E3440&hide_border=true" alt="Valendres's GitHub statistics" />
+  </a>
+</p>
+  
+<p>
+  <a href="https://github.com/valendres">
+    <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=valendres&hide=java,html&title_color=81a1c1&text_color=c9cacc&icon_color=2bbc8a&bg_color=2E3440&hide_border=true" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/valendres">
+    <img width="450em" src="https://github-profile-trophy.vercel.app/?username=valendres&theme=nord&row=1&&column=3&margin-w=8&no-frame=true&rank=SSS,SS,S,AAA,AA,A" />
+  </a>
+</p>
+
+
 <h2>⚡️ Skills</h2>
 <table>
     <thead>
@@ -74,28 +98,3 @@
         </tr>
     </tbody>
 </table>
-
-<br/>
-
-<h2>📈 Github statistics</h2>
-<p>
-	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=valendres&include_all_commits=true&hide_border=true&theme=dark&background=2E3440&fire=81a1c1&ring=81a1c1&currStreakLabel=81a1c1"/>
-</p>
-
-<p>
-  <a href="https://github.com/valendres">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=valendres&show_icons=true&line_height=27&count_private=true&title_color=81a1c1&text_color=c9cacc&icon_color=2bbc8a&bg_color=2E3440&hide_border=true" alt="Valendres's GitHub statistics" />
-  </a>
-</p>
-  
-<p>
-  <a href="https://github.com/valendres">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=valendres&hide=java,html&title_color=81a1c1&text_color=c9cacc&icon_color=2bbc8a&bg_color=2E3440&hide_border=true" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/valendres">
-    <img src="https://github-profile-trophy.vercel.app/?username=valendres&theme=nord&row=1&&column=3&margin-w=8&no-frame=true&rank=SSS,SS,S,AAA,AA,A" width="450em" />
-  </a>
-</p>
