@@ -1,43 +1,18 @@
-<h1>Welcome! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Welcome! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<h2>🤓 About me</h2>
-<p>I am Peter Weller, a Senior Frontend Developer who is currently looking for work 👀</p>
+<h2 align="center">🤓 About me</h2>
+<p align="center">I am Peter Weller, a Senior Frontend Developer who is currently looking for work 👀</p>
 
-
-<h2>📫 Get in touch</h2>
-<p>
+<br/>
+<h2 align="center">📫 Get in touch</h2>
+<p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/peter-weller-ba542293"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:peter.weller@mailfence.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/email-e836f0?&style=for-the-badge&logo=maildotru&logoColor=white" /></a>&nbsp;
 </p>
 
 <br/>
 
-<h2>📈 Github statistics</h2>
-<p>
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=valendres&include_all_commits=true&hide_border=true&theme=dark&background=2E3440&fire=81a1c1&ring=81a1c1&currStreakLabel=81a1c1"/>
-</p>
-
-<p>
-  <a href="https://github.com/valendres">
-    <img src="https://github-readme-stats.vercel.app/api?username=valendres&show_icons=true&line_height=27&count_private=true&title_color=81a1c1&text_color=c9cacc&icon_color=2bbc8a&bg_color=2E3440&hide_border=true" alt="Valendres's GitHub statistics" width="450em" />
-  </a>
-</p>
-  
-<p>
-  <a href="https://github.com/valendres">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=valendres&hide=java,html&title_color=81a1c1&text_color=c9cacc&icon_color=2bbc8a&bg_color=2E3440&hide_border=true" width="450em" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/valendres">
-    <img src="https://github-profile-trophy.vercel.app/?username=valendres&theme=nord&row=1&&column=3&margin-w=8&no-frame=true&rank=SSS,SS,S,AAA,AA,A" width="450em" />
-  </a>
-</p>
-<br />
-
-
-<h2>⚡️ Skills</h2>
+<h2 align="center">⚡️ Skills</h2>
 <table>
     <thead>
         <tr>
@@ -103,3 +78,28 @@
         </tr>
     </tbody>
 </table>
+
+<br/>
+
+<h2 align="center">📈 Github statistics</h2>
+<p align="center">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=valendres&include_all_commits=true&hide_border=true&theme=dark&background=2E3440&fire=81a1c1&ring=81a1c1&currStreakLabel=81a1c1"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/valendres">
+    <img src="https://github-readme-stats.vercel.app/api?username=valendres&show_icons=true&line_height=27&count_private=true&title_color=81a1c1&text_color=c9cacc&icon_color=2bbc8a&bg_color=2E3440&hide_border=true" alt="Valendres's GitHub statistics" width="450em" />
+  </a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/valendres">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=valendres&hide=java,html&title_color=81a1c1&text_color=c9cacc&icon_color=2bbc8a&bg_color=2E3440&hide_border=true" width="450em" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/valendres">
+    <img src="https://github-profile-trophy.vercel.app/?username=valendres&theme=nord&row=1&&column=3&margin-w=8&no-frame=true&rank=SSS,SS,S,AAA,AA,A" width="450em" />
+  </a>
+</p>
