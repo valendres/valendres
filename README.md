@@ -1,6 +1,6 @@
 <h1>Welcome! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Waving hand"></h1>
 
-<p>I am Peter Weller, a Senior Frontend Developer who is currently looking for work 👀</p>
+<p>I am Peter Weller, a Senior Frontend Developer!</p>
 
 <h2>📫 Get in touch</h2>
 <p>
