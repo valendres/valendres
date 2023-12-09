@@ -9,7 +9,7 @@
 </p>
 
 <h2>📈 Github statistics</h2>
-<p>
+<!-- <p>
 	<img height="177.27px" src="https://github-readme-streak-stats.herokuapp.com/?user=valendres&include_all_commits=true&hide_border=true&theme=dark&background=2E3440&fire=81a1c1&ring=81a1c1&currStreakLabel=81a1c1" alt="Personal commit statistics">
 </p>
 
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<p>
+<p> -->
   <a href="https://github.com/valendres">
     <img height="143.06px" src="https://github-profile-trophy.vercel.app/?username=valendres&theme=nord&row=1&&column=3&margin-w=8&no-frame=true&rank=SSS,SS,S,AAA,AA,A" alt="Valendres's GitHub profile trophies">
   </a>
